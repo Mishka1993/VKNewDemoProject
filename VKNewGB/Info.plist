@@ -21,5 +21,11 @@
 			</array>
 		</dict>
 	</dict>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>VK Sans Medium.ttf</string>
+	</array>
 </dict>
 </plist>
